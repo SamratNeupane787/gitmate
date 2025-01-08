@@ -1,6 +1,6 @@
 # Gitmate
 
-**Gitmate** is a web app designed to connect programmers and tech enthusiasts. Whether you're looking for a coding buddy, a mentor, or even a romantic partner, Linkr provides a platform where developers can swipe, match, and collaborate based on shared interests and skills.
+**Gitmate** is a web app designed to connect programmers and tech enthusiasts. Whether you're looking for a coding buddy, a mentor, or even a romantic partner, gitmate provides a platform where developers can swipe, match, and collaborate based on shared interests and skills.
 
 ---
 
